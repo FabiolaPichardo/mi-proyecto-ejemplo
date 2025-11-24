@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/glosa/OneDrive%20-%20Instituto%20Tecnol%C3%B3gico%20de%20Toluca/Proyectos%20Programaci%C3%B3n%20Web/mi-proyecto-ejemplo/app/analytics/page.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function Analytics() {\r\n  return (\r\n    <div>Analytics</div>\r\n  )\r\n}\r\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBACE,uWAAC;kBAAI;;;;;;AAET","debugId":null}}]
+}

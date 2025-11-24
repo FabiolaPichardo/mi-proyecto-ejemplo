@@ -1,0 +1,23 @@
+{
+  "pages": {
+    "/log-in/page": [
+      "static/chunks/567f3_next_dist_caa46e1e._.js",
+      "static/chunks/36390_Proyectos Programación Web_mi-proyecto-ejemplo_app_favicon_ico_mjs_aca92c0b._.js",
+      "static/chunks/[root-of-the-server]__a60cfc11._.css",
+      "static/chunks/36390_Proyectos Programación Web_mi-proyecto-ejemplo_app_layout_tsx_c2c844d4._.js",
+      "static/chunks/567f3_next_dist_client_components_builtin_global-error_ad0bec91.js",
+      "static/chunks/567f3_088092d5._.js",
+      "static/chunks/a0a5e_ Tecnológico de Toluca_Proyectos Programación Web_mi-proyecto-ejemplo_6b1cb02a._.js",
+      "static/chunks/36390_Proyectos Programación Web_mi-proyecto-ejemplo_app_log-in_page_tsx_ad0bec91._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_86d14d59._.js",
+      "static/chunks/567f3_next_dist_compiled_react-dom_c2587632._.js",
+      "static/chunks/567f3_next_dist_compiled_next-devtools_index_f0794abb.js",
+      "static/chunks/567f3_next_dist_compiled_ad15731a._.js",
+      "static/chunks/567f3_next_dist_client_5a9b7be2._.js",
+      "static/chunks/567f3_next_dist_738ba4eb._.js",
+      "static/chunks/567f3_@swc_helpers_cjs_6e3705dc._.js",
+      "static/chunks/a0a5e_ Tecnológico de Toluca_Proyectos Programación Web_mi-proyecto-ejemplo_a0ff3932._.js",
+      "static/chunks/3fd68_ Tecnológico de Toluca_Proyectos Programación Web_mi-proyecto-ejemplo_e6279787._.js"
+    ]
+  }
+}

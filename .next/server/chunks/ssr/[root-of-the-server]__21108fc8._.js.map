@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/glosa/mi-proyecto2/app/page.tsx"],"sourcesContent":["import Image from \"next/image\";\n\nexport default function Home() {\n  return (\n\n    /*Formas de iniciar*/\n    \n    /*Con div\n    <div className=\"font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20\">     \n    </div>*/\n\n    /*Con etiqueta que cierra y que abre */\n    <>\n    {/* Header */}\n    <header>\n    <div className=\"sticky top-0 z-30 bg-white/70 backdrop-blur-md\">\n      <a>\n        <span>logo</span>\n      </a>\n      <nav>\n        <a> Caracteristicas </a>\n        <a> Precios </a>\n        <a> FAQ </a>\n        <a> Blog </a>\n        <a> Iniciar Sesion </a>\n\n      </nav>\n    </div>\n    </header>\n    </>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,OAEE,mBAAmB,GAEnB;;UAEM,GAEN,qCAAqC,iBACrC;kBAEA,cAAA,iQAAC;sBACD,cAAA,iQAAC;gBAAI,WAAU;;kCACb,iQAAC;kCACC,cAAA,iQAAC;sCAAK;;;;;;;;;;;kCAER,iQAAC;;0CACC,iQAAC;0CAAE;;;;;;0CACH,iQAAC;0CAAE;;;;;;0CACH,iQAAC;0CAAE;;;;;;0CACH,iQAAC;0CAAE;;;;;;0CACH,iQAAC;0CAAE;;;;;;;;;;;;;;;;;;;;;;;;AAOX","debugId":null}}]
+}

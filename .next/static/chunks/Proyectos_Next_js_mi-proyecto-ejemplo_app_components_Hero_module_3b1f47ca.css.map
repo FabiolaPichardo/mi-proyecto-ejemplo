@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/glosa/Proyectos_Next.js/mi-proyecto-ejemplo/app/components/Hero.module.css"],"sourcesContent":[".hero{\r\n    background: radial-gradient(1200px 400px at 50% - 20%, rgba(58, 134, 255, 0.35), transparent),\r\n    linear-gradient(180deg, rgba(27, 27, 38m 0.8), rgba(27, 27, 38, 0));\r\n    padding: 4rem 0;\r\n    border-bottom: 1px solid var(--border);\r\n}\r\n\r\n.inner{\r\n    width: min(100% - 2rem, var(--container));\r\n    margin-inline: auto;\r\n    text-align: center;\r\n}\r\n\r\n.cta{\r\n    display: inline-block;\r\n    margin-top: 1rem;\r\n    padding: .75rem 1rem;\r\n    border-radius: 999px;\r\n    background: var(--brand-600);\r\n    color: white;\r\n    font-weight: 700;\r\n    box-shadow: var(--shadow);\r\n}\r\n\r\n.cta:hover{\r\n    filter: brightness(1.1);\r\n}"],"names":[],"mappings":"AAAA;;;;;;AAOA;;;;;;;AAMA;;;;;;;;;;;AAWA","debugId":null}}]
+}

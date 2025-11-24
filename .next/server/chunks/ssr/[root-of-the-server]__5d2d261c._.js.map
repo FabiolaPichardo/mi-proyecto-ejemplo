@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/glosa/OneDrive%20-%20Instituto%20Tecnol%C3%B3gico%20de%20Toluca/Proyectos%20Programaci%C3%B3n%20Web/mi-proyecto-ejemplo/app/users/page.tsx"],"sourcesContent":["import React from 'react'\r\nimport Link from 'next/link'\r\nimport Dashboard from '../dashboard/page'\r\n\r\nexport default function Users() {\r\n  return (\r\n    <div>\r\n        <h1>LISTA DE USUARIOS</h1>\r\n        <ul>\r\n            <li><Link href={\"/dashboard/users/1\"}>Peter D</Link></li>\r\n            <li><Link href={\"/dashboard/users/2\"}>Kenzo t</Link></li>\r\n            <li><Link href={\"/dashboard/users/3\"}>John D</Link></li>\r\n        </ul>\r\n    </div>\r\n  )\r\n}\r\n"],"names":[],"mappings":";;;;;AACA;;;AAGe,SAAS;IACtB,qBACE,uWAAC;;0BACG,uWAAC;0BAAG;;;;;;0BACJ,uWAAC;;kCACG,uWAAC;kCAAG,cAAA,uWAAC,gSAAI;4BAAC,MAAM;sCAAsB;;;;;;;;;;;kCACtC,uWAAC;kCAAG,cAAA,uWAAC,gSAAI;4BAAC,MAAM;sCAAsB;;;;;;;;;;;kCACtC,uWAAC;kCAAG,cAAA,uWAAC,gSAAI;4BAAC,MAAM;sCAAsB;;;;;;;;;;;;;;;;;;;;;;;AAIlD","debugId":null}}]
+}

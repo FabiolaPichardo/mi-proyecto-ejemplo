@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/glosa/OneDrive%20-%20Instituto%20Tecnol%C3%B3gico%20de%20Toluca/Proyectos%20Programaci%C3%B3n%20Web/mi-proyecto-ejemplo/components/Hero.module.css"],"sourcesContent":[".hero{\r\n    background: radial-gradient(1200px 400px at 50% - 20%, rgba(65, 3, 36, 0.86), transparent),\r\n    linear-gradient(180deg, rgba(27, 27, 38m 0.8), rgba(27, 27, 38, 0));\r\n    padding: 3rem 0;\r\n    border-bottom: 1px solid var(--border);\r\n    font-size: 1.3rem;\r\n}\r\n\r\n.inner{\r\n    width: min(100% - 2rem, var(--container));\r\n    margin-inline: auto;    \r\n    text-align: center;\r\n}\r\n\r\n/* Boton del Hero */\r\n.cta{\r\n    display: inline-block;\r\n    margin-top: 0;\r\n    padding: .75rem 3rem;\r\n    border-radius: 500px;\r\n    background: var(--brand-600);\r\n    color: white;\r\n    font-size: 1.2rem;\r\n    font-weight: 700;\r\n    box-shadow: var(--shadow);\r\n    transition: all 0.2s ease-in-out;\r\n}\r\n\r\n.cta:hover{\r\n    filter: brightness(1.1);\r\n    background: #fa2e90;\r\n    transform: translateY(-3px);\r\n}"],"names":[],"mappings":"AAAA;;;;;;;AAQA;;;;;;;AAOA;;;;;;;;;;;;;AAaA","debugId":null}}]
+}
