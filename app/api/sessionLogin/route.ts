@@ -27,7 +27,7 @@ export async function POST(req: Request){
 
         /*status: 400 --> la solicitud no puede ser procesada */
         if(!idToken) return NextResponse.json(
-            { error:"Falta idToken" }, 
+            { error:"Falta idToken, revisa que exita un token correcto para accesar" }, 
             { status: 400 }
         );
        
