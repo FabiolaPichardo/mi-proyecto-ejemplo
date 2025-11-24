@@ -4,6 +4,7 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import { signInWithEmailAndPassword } from "firebase/auth";
 import { auth } from "@/lib/firebase-client";
+//cambios cambios cambios git
 
 
 export default function LogInPage() {
